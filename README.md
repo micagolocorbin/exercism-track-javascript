@@ -1,0 +1,1 @@
+# My solutions for JavaScript track from [exercism.io](https://exercism.org/profiles/micagolocorbin/solutions?track_slug=javascript)
